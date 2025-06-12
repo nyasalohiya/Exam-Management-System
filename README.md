@@ -14,8 +14,7 @@
 - [📊 Database Schema]
 - [🧪 Testing]
 - [📸 Screenshots]
-- [📄 License](#-license)
-- [👥 Authors](#-authors)
+
 
 
 ## ✨ Features
