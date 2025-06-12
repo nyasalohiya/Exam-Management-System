@@ -4,21 +4,19 @@
 
 ## 📋 Table of Contents
 
-- [✨ Features](#-features)
-- [🏗️ System Architecture](#️-system-architecture)
-- [🚀 Quick Start](#-quick-start)
-- [📦 Installation](#-installation)
-- [🔧 Configuration](#-configuration)
-- [📱 Usage](#-usage)
-- [🎯 User Roles](#-user-roles)
-- [📊 Database Schema](#-database-schema)
-- [🧪 Testing](#-testing)
-- [📸 Screenshots](#-screenshots)
-- [🤝 Contributing](#-contributing)
+- [✨ Features]
+- [🏗️ System Architecture]
+- [🚀 Quick Start]
+- [📦 Installation]
+- [🔧 Configuration]
+- [📱 Usage]
+- [🎯 User Roles]
+- [📊 Database Schema]
+- [🧪 Testing]
+- [📸 Screenshots]
 - [📄 License](#-license)
 - [👥 Authors](#-authors)
 
----
 
 ## ✨ Features
 
@@ -52,7 +50,7 @@
 
 ## 🏗️ System Architecture
 
-\`\`\`
+
 ┌─────────────────────────────────────────────────────────────┐
 │                    Presentation Layer                       │
 │  ┌─────────────┐ ┌─────────────┐ ┌─────────────────────────┐│
@@ -80,7 +78,7 @@
 │  │   SQLite    │ │Django ORM   │ │      Migrations         ││
 │  └─────────────┘ └─────────────┘ └─────────────────────────┘│
 └─────────────────────────────────────────────────────────────┘
-\`\`\`
+
 
 ---
 
@@ -99,7 +97,7 @@ Get the Exam Management System up and running in just a few minutes!
 git clone https://github.com/yourusername/exam-management-system.git
 cd exam-management-system
 python scripts/complete_setup.py
-\`\`\`
+
 
 ### Manual Setup
 \`\`\`bash
